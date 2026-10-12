@@ -4,8 +4,6 @@ A Python desktop tool that detects **network reconnaissance** (MITRE ATT&CK **T1
 
 Built as a blue-team / SOC learning project.
 
-![Dashboard](docs/screenshot.png)
-
 ---
 
 ## ✨ Features
